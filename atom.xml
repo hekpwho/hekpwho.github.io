@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Zsw&#39;s Blog</title>
+  
+  
+  <link href="https://hekpwho.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://hekpwho.github.io/"/>
+  <updated>2022-07-01T09:31:21.002Z</updated>
+  <id>https://hekpwho.github.io/</id>
+  
+  <author>
+    <name>zsw</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>爬虫入门笔记</title>
+    <link href="https://hekpwho.github.io/2022/04/09/%E7%88%AC%E8%99%AB%E5%85%A5%E9%97%A8%E7%AC%94%E8%AE%B0/"/>
+    <id>https://hekpwho.github.io/2022/04/09/%E7%88%AC%E8%99%AB%E5%85%A5%E9%97%A8%E7%AC%94%E8%AE%B0/</id>
+    <published>2022-04-08T16:00:00.000Z</published>
+    <updated>2022-07-01T09:31:21.002Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;网页的基本结构&quot;&gt;&lt;a href=&quot;#网页的基本结构&quot; class=&quot;headerlink&quot; title=&quot;网页的基本结构&quot;&gt;&lt;/a&gt;网页的基本结构&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;HTML：负责定义网页的内容，属于一种标签语言，标签是由&lt;em&gt;尖括号&lt;/em&gt;包围的关键词组成，比如 &lt;html&gt;，并且通常是&lt;em&gt;成对出现&lt;/em&gt;的&lt;/li&gt;
+&lt;li&gt;CSS ：负责描述网页的布局，其编写方法有三种，分别是行内样式、内嵌样式和外联样式。&lt;/li&gt;
+&lt;li&gt;JavaScript：负责网页的行为</summary>
+    
+    
+    
+    <category term="爬虫" scheme="https://hekpwho.github.io/categories/%E7%88%AC%E8%99%AB/"/>
+    
+    
+    <category term="python" scheme="https://hekpwho.github.io/tags/python/"/>
+    
+    <category term="爬虫" scheme="https://hekpwho.github.io/tags/%E7%88%AC%E8%99%AB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vim学习笔记</title>
+    <link href="https://hekpwho.github.io/2022/04/04/vim%E4%BD%BF%E7%94%A8%E7%AC%94%E8%AE%B0/"/>
+    <id>https://hekpwho.github.io/2022/04/04/vim%E4%BD%BF%E7%94%A8%E7%AC%94%E8%AE%B0/</id>
+    <published>2022-04-03T16:00:00.000Z</published>
+    <updated>2022-07-01T09:31:20.992Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;vim的三种模式&quot;&gt;&lt;a href=&quot;#vim的三种模式&quot; class=&quot;headerlink&quot; title=&quot;vim的三种模式&quot;&gt;&lt;/a&gt;vim的三种模式&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;命令模式: 就是日常首先进入vim所处的模式.&lt;/li&gt;
+&lt;li&gt;插入模式:在此模式下，Vim 可以对文件执行写操作;进行输入模式的方式是在命令模式状态下输入 i、I、a、A、o、O 等插入命令,按 Esc 键即可返回命令模式.</summary>
+    
+    
+    
+    <category term="Linux" scheme="https://hekpwho.github.io/categories/Linux/"/>
+    
+    
+    <category term="linux" scheme="https://hekpwho.github.io/tags/linux/"/>
+    
+    <category term="vim" scheme="https://hekpwho.github.io/tags/vim/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vmware安装archlinux记录</title>
+    <link href="https://hekpwho.github.io/2022/02/22/Vmware%E5%AE%89%E8%A3%85archlinux%E8%AE%B0%E5%BD%95/"/>
+    <id>https://hekpwho.github.io/2022/02/22/Vmware%E5%AE%89%E8%A3%85archlinux%E8%AE%B0%E5%BD%95/</id>
+    <published>2022-02-21T16:00:00.000Z</published>
+    <updated>2022-07-01T09:31:20.992Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;安装的准备&quot;&gt;&lt;a href=&quot;#安装的准备&quot; class=&quot;headerlink&quot; title=&quot;安装的准备&quot;&gt;&lt;/a&gt;安装的准备&lt;/h1&gt;&lt;p&gt;首先去 &lt;a href=&quot;https://archlinux.org/download/&quot;&gt;这里&lt;/a&gt;   下载最新的arch镜像。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;新建虚拟机，注意选择其他linux版本64位，开启cpu虚拟化intel&amp;#x2F;amd引擎，网络连接设置NAT模式。&lt;/li&gt;
+&lt;li&gt;进入虚拟机设置，点击 &lt;strong&gt;选项&lt;/strong&gt; 里的&lt;strong&gt;高级&lt;/strong&gt;，更改固件类型为uefi,启动安装。</summary>
+    
+    
+    
+    <category term="Linux" scheme="https://hekpwho.github.io/categories/Linux/"/>
+    
+    
+    <category term="arch" scheme="https://hekpwho.github.io/tags/arch/"/>
+    
+    <category term="linux" scheme="https://hekpwho.github.io/tags/linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>termux搭建博客</title>
+    <link href="https://hekpwho.github.io/2020/08/16/termux%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://hekpwho.github.io/2020/08/16/termux%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</id>
+    <published>2020-08-15T16:00:00.000Z</published>
+    <updated>2022-07-01T09:31:20.992Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;本地安装&quot;&gt;&lt;a href=&quot;#本地安装&quot; class=&quot;headerlink&quot; title=&quot;本地安装&quot;&gt;&lt;/a&gt;本地安装&lt;/h1&gt;&lt;p&gt;打开termux,输入:&lt;/p&gt;
+&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;pkg update &amp;amp;&amp;amp; pkg upgrade -y&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+&lt;p&gt;待更新完成后，安装一些必要的工具:&lt;/p&gt;
+&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;pkg install nodejs-lts vim git  -y&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;再是使用淘宝镜像:&lt;/p&gt;
+&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;npm config set registry http://registry.npm.taobao.org&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</summary>
+    
+    
+    
+    <category term="其他" scheme="https://hekpwho.github.io/categories/%E5%85%B6%E4%BB%96/"/>
+    
+    
+    <category term="termux" scheme="https://hekpwho.github.io/tags/termux/"/>
+    
+    <category term="hexo" scheme="https://hekpwho.github.io/tags/hexo/"/>
+    
+  </entry>
+  
+</feed>
