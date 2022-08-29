@@ -57,9 +57,9 @@
     <category term="Linux" scheme="https://hekpwho.github.io/categories/Linux/"/>
     
     
-    <category term="vim" scheme="https://hekpwho.github.io/tags/vim/"/>
-    
     <category term="linux" scheme="https://hekpwho.github.io/tags/linux/"/>
+    
+    <category term="vim" scheme="https://hekpwho.github.io/tags/vim/"/>
     
   </entry>
   
@@ -81,9 +81,9 @@
     <category term="Linux" scheme="https://hekpwho.github.io/categories/Linux/"/>
     
     
-    <category term="linux" scheme="https://hekpwho.github.io/tags/linux/"/>
-    
     <category term="arch" scheme="https://hekpwho.github.io/tags/arch/"/>
+    
+    <category term="linux" scheme="https://hekpwho.github.io/tags/linux/"/>
     
   </entry>
   
